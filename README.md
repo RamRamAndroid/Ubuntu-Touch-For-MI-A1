@@ -36,8 +36,11 @@ In TWRP, go to Advanced > Treble Manager and repartition the device by following
 
 
 Flash Ubuntu in fastboot mode:
+
 fastboot flash vendor vendor.img
+
 fastboot flash boot boot.img
+
 fastboot flash system system.img
 
 and then reboot to system and enjoy
