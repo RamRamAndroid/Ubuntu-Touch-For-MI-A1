@@ -2,6 +2,7 @@
 This is the unofficial port of ubuntu touch for the mi a1 that i made
 
 what works:-
+
 Rotation
 
 Wifi
