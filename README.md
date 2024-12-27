@@ -1,6 +1,8 @@
 # Unofficial-Ubuntu-Touch-For-MI-A1
 This is the unofficial port of ubuntu touch for the mi a1 that i made
 
+THIS IS ONLY A DEMO. NO BUGS ARE GOING TO BE PATCHED
+
 what works:-
 
 Rotation
