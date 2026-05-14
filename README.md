@@ -1,7 +1,7 @@
 # Ubuntu-Touch-For-MI-A1
 This is the port of ubuntu touch for the mi a1 that i made
 
-# THIS IS ONLY A DEV BUILD. NO BUGS ARE GOING TO BE PATCHED
+# THIS IS NO LONGER BEING MANTAINED. NO BUGS ARE GOING TO BE PATCHED
 
 # what works:-
 
